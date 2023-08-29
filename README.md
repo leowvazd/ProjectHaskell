@@ -33,6 +33,8 @@ Os comandos para jogar são as teclas direcionais do teclado e/ou A, W, S, D par
 | ⬅️ / A                     | Move o jogador para esquerda     |
 | ESC                                | Sai do jogo, fechando a tela  |
 
-## Créditos
+## Referências
 
-O algoritmo original Maze Generator foi feito por Joe Wingbermuehle. Você pode obter o original no link abaixo: https://github.com/joewing/maze/blob/master/maze.hs
+- O algoritmo original Maze Generator foi feito por Joe Wingbermuehle. Você pode obter o original no link abaixo: https://github.com/joewing/maze/blob/master/maze.hs
+
+- https://haskell.pesquisa.ufabc.edu.br/cursos/21.q2.haskell/
