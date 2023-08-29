@@ -7,11 +7,11 @@ _Eai, consegue escapar!?_
 Para instalar o jogo é necessário instalar as bibliotecas Random e Gloss após a instalação da linguagem de programação Haskell, seguindo os comandos abaixos:
 
 ```
-$ stack update
+$ sudo stack update
 $ sudo apt-get install -y libgl-dev
 $ sudo apt install freeglut3-dev
-$ stack install random
-$ stack install gloss
+$ sudo stack install random
+$ sudo stack install gloss
 ```
 
 ## Como Executar
